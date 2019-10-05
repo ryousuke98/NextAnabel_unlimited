@@ -1,0 +1,6 @@
+git リモートリポジトリへpushのやり方
+git init
+git add [ファイル名,フォルダ]
+git commit -m "任意のメッセージ"
+git remote add origin cloneするときの.gitを貼ればOK
+git push -u origin 任意のブランチ
